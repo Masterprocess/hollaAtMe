@@ -1,0 +1,25 @@
+{
+  "name": "holla-at-me",
+  "version": "1.0.0",
+  "description": "A command line node app that can give you my tweets, movie info, song info, and so forth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com//hollaAtMe.git"
+  },
+  "author": "Christopher Rackley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masterprocess/hollaAtMe/issues"
+  },
+  "homepage": "https://github.com/curtis-atkins/hollaAtMe#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.6",
+    "request": "^2.81.0",
+    "twit": "^2.2.9"
+  }
+}
