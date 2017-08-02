@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/masterprocess/hollaAtMe/issues"
   },
-  "homepage": "https://github.com/curtis-atkins/hollaAtMe#readme",
+  "homepage": "https://github.com/masterprocess/hollaAtMe#readme",
   "dependencies": {
     "fs": "0.0.1-security",
     "node-spotify-api": "^1.0.6",
